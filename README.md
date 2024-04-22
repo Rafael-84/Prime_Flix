@@ -5,4 +5,4 @@ Aplicação Web Criada utilizando a tecnologia ReactJs e consumindo API externa
 
 ## Como Acessar
 
-Clique no link a seguir para acessar a página. [http://localhost:3000](http://localhost:3000) 
+Clique no link a seguir para acessar a página. **Aplicação ainda não está no ar, assim que concluida colocarei o link aqui.**
